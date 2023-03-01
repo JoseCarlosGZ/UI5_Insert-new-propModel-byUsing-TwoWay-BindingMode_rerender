@@ -3,7 +3,7 @@
       { "nombreFruta": "pera", "color": "verde" },
       { "nombreFruta": "fresa", "color": "rojo" },
       { "nombreFruta": "plátano", "color": "amarillo" },
-      { "nombreFruta": "uvcereza", "color": "rojo" },
+      { "nombreFruta": "cereza", "color": "rojo" },
       { "nombreFruta": "naranja", "color": "naranja" }
     ]
 }
