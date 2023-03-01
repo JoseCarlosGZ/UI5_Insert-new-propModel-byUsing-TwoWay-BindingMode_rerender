@@ -1,6 +1,7 @@
 ## UI5_Insert-new-propModel-byUsing-TwoWay-BindingMode-rerender
 
-<a href="[URL](https://josecarlosgz.github.io/UI5_Insert-new-propModel-byUsing-TwoWay-BindingMode_rerender/index.html)" target="_blank">Link to example</a>
+[Link to example](https://josecarlosgz.github.io/UI5_Insert-new-propModel-byUsing-TwoWay-BindingMode_rerender/index.html)
+
 
 A new property can be added to an SAPUI5 component's model simply because the model is of type sap.ui.model.BindingMode.TwoWay. In this example, a new property can be added to a JSONModel-bound sap.m.Select control without the need for any JavaScript code, such as setProperty().
 
